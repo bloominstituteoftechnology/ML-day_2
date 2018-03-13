@@ -17,7 +17,11 @@
     * Robust data APIs
     * Speed
     * Platform independence
-3. Setting up python
+3. Where are ML tools going
+  * Design local
+  * Share live code and documentation
+  * Run remote
+4. Setting up python
   * Local
   * pipenv
   * colaboratory
@@ -26,4 +30,5 @@
 
 # Assignment
 
-Create `yourname_day_2_mlmbc.py`. It must print the result of `54321 * 12345`.
+Create `yourname_day_2_mlmbc.py`. It must print the result of `54321 * 12345`. Deliver it to me via pull request.
+
