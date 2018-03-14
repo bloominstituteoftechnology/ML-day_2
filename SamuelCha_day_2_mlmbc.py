@@ -8,18 +8,19 @@ def printThis(msg):
     print('')
     print('*~' * 15 + '\n')
     print(msg)
+    print('')
     print('*~' * 15 + '\n')
 
 
 '''
 def addThese(nums):
-    
+
 '''
 
 
 '''
 def subtractThese(nums):
-    
+
 '''
 
 
@@ -42,4 +43,4 @@ def stringThese(nums):
 
 printThis(stringThese(list(map(lambda num: formatThis(num), nums))) +
           ' = ' +
-          formatThis(multiplyThese(nums)) + '\n')
+          formatThis(multiplyThese(nums)))
