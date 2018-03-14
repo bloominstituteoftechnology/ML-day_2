@@ -1,0 +1,20 @@
+https://developers.google.com/machine-learning/crash-course/
+
+https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
+Jupyter Notebooks Online
+
+http://propelml.org/
+Propel, Machince Learning in Javascript
+
+C++ > Java
+
+Required for Machine Learning:
+Swift Data Manipulation
+C++ is fastest, but it is a real pain to code
+You want a language that understands data, which C++ doesn't without code
+Needs to be shareable.
+
+https://github.com/pypa/pipenv
+Pipenv, makes virtual environments easier
+
+Anaconda is for local Jupyter install, that's silly, Google is better
